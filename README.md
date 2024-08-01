@@ -1,6 +1,6 @@
 👋 Hi, I’m Syed Muqtasid Ali
 
-👀 I’m interested in Data Science, Machine Learning, Deep Learning and Large Language Models (LLM) using python
+👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Large Language Models (LLM) using python
 
 🌱 I’m currently doing job in Wellness Innovation PVT. Limited (Chicago ) as Ai Software Automation Developer
 
