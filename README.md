@@ -1,4 +1,4 @@
-👋 Hi, I’m Syed Muqtasid Ali.
+👋 Hi, Myself Syed Muqtasid Ali.
 
 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Large Language Models ( LLM ) using Python.
 
